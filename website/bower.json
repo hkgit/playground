@@ -1,0 +1,18 @@
+{
+  "name": "Playground by HK",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hkgit/playground",
+  "authors": [
+    "HK Yoon <hkzuuu@gmail.com>"
+  ],
+  "description": "Just a playground for front-end stuff",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
